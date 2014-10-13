@@ -29,6 +29,9 @@ The variable 'zDstribution' contains the registered depth profile in the
 interval [-30um, 29.5um] with a step size of 0.5um. The sum of the variable
 gives the volume of the reconstruction in um^3.
 
+Only the software that is not already posted in github.com/uygarsumbul/rgc
+is posted in this repository.
+
 Genetic identities of neurons:
 Image100-XXX : BDa
 Image101-XXX : BDa
